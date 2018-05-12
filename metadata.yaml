@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34413
     wikipedia: http://en.wikipedia.org/wiki/John_Sell_Cotman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30172#Architectural-Antiquities-of-Normandy
 gutenberg_issued: '2009-10-04'
 gutenberg_type: Text
 identifiers:
