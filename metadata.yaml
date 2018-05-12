@@ -1,0 +1,35 @@
+_repo: Architectural-Antiquities-of-Normandy_30172
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Turner, Dawson
+    birthdate: 1775
+    deathdate: 1858
+    gutenberg_agent_id: '4412'
+    url: http://www.gutenberg.org/2009/agents/4412
+    wikipedia: http://en.wikipedia.org/wiki/Dawson_Turner
+  - agent_name: Cotman, John Sell
+    birthdate: 1782
+    deathdate: 1842
+    gutenberg_agent_id: '34413'
+    url: http://www.gutenberg.org/2009/agents/34413
+    wikipedia: http://en.wikipedia.org/wiki/John_Sell_Cotman
+description: ''
+gutenberg_issued: '2009-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30172'
+  lccn: '11031473'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NA'
+- !lcsh 'Architecture, Norman'
+- !lcsh 'Architecture -- France -- Normandy'
+title: Architectural Antiquities of Normandy
+url: http://www.gutenberg.org/ebooks/30172
